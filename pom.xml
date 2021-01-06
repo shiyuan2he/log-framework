@@ -11,6 +11,7 @@
     <modules>
         <module>logback-springboot</module>
         <module>logback-java</module>
+        <module>jdk-log-java</module>
     </modules>
 
     <parent>
