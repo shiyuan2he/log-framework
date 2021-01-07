@@ -13,6 +13,7 @@
         <module>logback-java</module>
         <module>jdk-log-java</module>
         <module>commons-log-java</module>
+        <module>commons-log4j</module>
     </modules>
 
     <parent>

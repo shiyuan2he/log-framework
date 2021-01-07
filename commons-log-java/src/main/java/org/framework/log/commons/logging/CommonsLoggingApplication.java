@@ -17,6 +17,7 @@ public class CommonsLoggingApplication {
             log.info("this is info log " + count);
             log.warn("this is warn log " + count);
             log.debug("this is debug log " + count);
+            log.error("this is error log " + count);
             count ++;
             if(count >= 1000){
                 break;
